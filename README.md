@@ -1,9 +1,3 @@
-# Hepsiburada Case Study
-
-## Proje Özellikleri
-
-Bu proje, Hepsiburada e-ticaret platformu için UI test otomasyonu ve Trello API testleri içerir.
-
 ### Teknolojiler ve Kütüphaneler
 
 - **Java 11**
